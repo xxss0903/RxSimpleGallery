@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lib</string>
+    <string name="album">Albums</string>
+    <string name="select_maximum">select a maximum of %1$d photos</string>
+    <string name="action_settings">设置</string>
+    <string name="choose_ok">确认</string>
+</resources>
